@@ -75,4 +75,4 @@ To get a local copy up and running, follow these simple steps.
 
 Once the setup is complete, simply run the script:
 ```sh
-python recommender.py
+Recommender.py
